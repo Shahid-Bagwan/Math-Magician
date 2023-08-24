@@ -1,8 +1,8 @@
-import React, { Component } from 'react';
+import React from 'react';
 /* eslint-disable */
 
-class Calculator extends Component {
-  render() {
+function Calculator () {
+
     return (
       <div className="container">
         <div className="wrapper">
@@ -29,7 +29,6 @@ class Calculator extends Component {
         </div>
       </div>
     );
-  }
 }
 
 export default Calculator;
