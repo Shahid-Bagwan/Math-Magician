@@ -1,3 +1,4 @@
+
 import React, { useState } from 'react';
 import calculate from '../logic/calculate';
 /* eslint-disable */
@@ -39,6 +40,7 @@ function Calculator() {
       </div>
     </div>
   );
+
 }
 
 export default Calculator;
