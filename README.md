@@ -1,65 +1,171 @@
-- ![](https://img.shields.io/badge/Microverse-blueviolet)
+<a name="readme-top"></a>
 
-# Math Magicians
+<div align="center">
 
-"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+  <h1><b>Math Magicians</b></h1>
 
-Make simple calculations.
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[Mealicious Gallery\] ](#-Math Magicians-)
+  - [🛠 Built With ](#-built-with-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Math Magicians <a name="about-project"></a>
+
+**[Math Magicians]** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to - Make simple calculations.
 Read a random math-related quote.
 
-## Available Scripts
+## 🛠 Built With <a name="built-with"></a>
+- HTML
+- CSS
+- JavaScript
+- Webpack
+<!-- Features -->
 
+### Key Features <a name="key-features"></a>
 
-## Built With
+- **[Adding Two Numbers]**
+- **[Multiplying Numbers]**
+- **[Division of Numbers]**
 
-- HTML, CSS, JS
-- react 
-- Linters
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Live Demo (if available)
+<!-- LIVE DEMO -->
 
-[Live Demo Link] not available yet
+## 🚀 Live Demo <a name="live-demo"></a>
 
-## Getting Started
+- [Live Demo Link](#)
 
-To get a local copy up and running follow these simple example steps.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- Fork and then Clone this repo using this URL (https://github.com/Shahid-Bagwan/Math-Magician.git) 
-- Or download it as a ZIP format from the green button above with the text "Code".
+<!-- GETTING STARTED -->
 
-### Install
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+- Laptop
+- Internet
+- Git
+- Github
+### Setup
+
+Clone this repository to your desired folder:
+
+```sh
+  cd my-folder
+  git clone https://github.com/Shahid-Bagwan/Math-Magician.git
 ```
-npm install
+### Install
+
+Install this project with:
+
+```sh
+  cd Math-Magician
+  npm install
 ```
 ### Usage
-To experience a Demo on your local machine run:
+
+To run the project, execute the following command:
+ command:
+
+```sh
+  npm run start
 ```
-npm start
+
+
+### Run tests
+
+To run tests, run the following command:
+
+```sh
+  npm run test
 ```
+### Deployment
 
-## Author
+You can deploy this project using:
 
-👤 **Shahid Bagwan**
+- gh Pages
 
-- GitHub: @Shahid-Bagwan
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<!-- AUTHORS -->
 
-## 🤝 Contributing
+## 👥 Authors <a name="authors"></a>
+
+👤 **Shahid-Bagwan**
+
+- GitHub: [@githubhandle](https://github.com/Shahid-Bagwan)
+- Twitter: [@twitterhandle](#)
+- LinkedIn: [LinkedIn](#)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Adding scientific Calculator]**
+- [ ] **[Better user interface]**
+- [ ] **[More functioanlities]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-## Show your support
+Feel free to check the [issues page](https://github.com/Shahid-Bagwan/Math-Magician/issues).
 
-Give a ⭐️ if you like this project!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Acknowledgments
+<!-- SUPPORT -->
 
-### Code Splitting
+## ⭐️ Show your support <a name="support"></a>
 
-- Thanks for Microverse 
+If you like this project give us a ⭐️.
 
-## 📝 License
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-This project is [MIT](MIT.md) licensed.
+<!-- ACKNOWLEDGEMENTS -->
 
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+We would like to thank the microverse team.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./MIT.md) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
