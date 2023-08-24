@@ -24,7 +24,7 @@ Read a random math-related quote.
 
 To get a local copy up and running follow these simple example steps.
 
-- Fork and then Clone this repo using this URL (https://github.com/Shahid-Bagwan/Math-Magician.git) 
+- Fork and then Clone this repo using this URL (https://github.com/NurkaAmre/Math-magicans) 
 - Or download it as a ZIP format from the green button above with the text "Code".
 
 ### Install
@@ -39,9 +39,11 @@ npm start
 
 ## Author
 
-👤 **Shahid Bagwan**
+👤 **Nurgul Kereikhan**
 
-- GitHub: @Shahid-Bagwan
+- GitHub: @aNurkaAmre
+- Twitter: @NurkaAmre
+- LinkedIn: @NurgulKereikhan
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
@@ -58,8 +60,10 @@ Give a ⭐️ if you like this project!
 ### Code Splitting
 
 - Thanks for Microverse 
+- And thankfull for Didier and my coding partner...
+- etc
 
 ## 📝 License
 
-This project is [MIT](MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
