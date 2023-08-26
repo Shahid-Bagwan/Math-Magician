@@ -1,10 +1,13 @@
 import React from 'react';
 import Calculator from './component/calculator';
-/* eslint-disable */
+import Quotes from './component/Quotes';
+import './index.css';
 
-function App() {
-  return <Calculator />;
-}
-
+const App = () => (
+  <div>
+    <Calculator />
+    <Quotes />
+  </div>
+);
 
 export default App;

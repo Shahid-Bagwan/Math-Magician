@@ -14,12 +14,12 @@ body {
 .display {
   grid-column: 1 / -1;
   color: #fff;
-  padding-top: 3rem;
   padding-right: 1rem;
   font-size: 2rem;
   overflow: hidden;
   background-color: grey;
   text-align: end;
+  letter-spacing: 5px;
 }
 
 .container {
@@ -67,4 +67,27 @@ body {
 
 .span {
   grid-column: 1 / span 2;
+}
+
+.quotesCont {
+  color: black;
+  width: 50%;
+  margin: 0 auto;
+  font-weight: 400;
+  font-size: 1.2rem;
+  border: 1px solid;
+}
+
+.loadQuote {
+  margin: 0 auto;
+  width: 0.85rem;
+  height: 0.85rem;
+  background: #f4c154;
+  box-shadow: 0.85rem 0 #f4c154, -1.25rem 0 #f4c154;
+  border-radius: 0.85rem;
+  animation: d6 1s infinite linear alternate;
+}
+
+.qouteStyle {
+  font-style: italic;
 }
